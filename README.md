@@ -32,7 +32,6 @@ A Random Forest Classifier is trained and evaluated using Python and Scikit-lear
 - **Testing Accuracy:** Approximately 83%
 
 ## Project File
-## Project Files
 
 - `Heart_Disease_Prediction.ipynb` — Jupyter Notebook containing data analysis, visualization, model training, and evaluation.
 - `Heart.csv` — Dataset used for the project.
